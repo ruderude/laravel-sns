@@ -9,4 +9,5 @@
             @include('articles.card')
         @endforeach
     </div>
+    <br>
 @endsection
